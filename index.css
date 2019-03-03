@@ -1,5 +1,17 @@
+main > * {
+  margin: auto;
+  max-width: 500px;
+  text-align: center;
+}
 #image {
   max-width: 100%;
   display: block;
   margin: auto;
+}
+#tribute-info, footer {
+  text-align: justify;
+}
+footer {
+  margin-top: 20px;
+  font-size: small;
 }
